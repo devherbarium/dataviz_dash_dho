@@ -5,7 +5,6 @@ nltk==3.8.1
 pandas==2.2.2
 plotly==5.9.0
 PyYAML==6.0.1
-scikit_learn==1.2.2
 seaborn==0.13.2
 streamlit==1.33.0
 streamlit_authenticator==0.3.2
@@ -13,3 +12,5 @@ vaderSentiment==3.3.2
 wordcloud==1.9.3
 openpyxl
 azure-storage-blob
+Cython
+scikit-learn
